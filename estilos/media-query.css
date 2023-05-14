@@ -46,6 +46,12 @@ Extra large screens, TV – 1201px, and more.*/
     section#login div#formulario{
         float: right;
         width: 50%;
+
+    }
+    
+    div#formulario p{
+        margin: 10px;
+        font-size: 1em;
     }
 
 
