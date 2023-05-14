@@ -30,7 +30,7 @@ Extra large screens, TV – 1201px, and more.*/
 /* pc */
 @media screen and (min-width: 992px) {
     body{
-        background-image: linear-gradient(to top, #5D7C99, #FFB769);
+        background-image: linear-gradient(to bottom, #5D7C99, #FFB769);
     }
     
     section#login{
